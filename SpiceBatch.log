@@ -1,0 +1,697 @@
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+ERROR:SpiceCircuit:line starting with 'Icp1' not found in netlist
+INFO:SimRunner:SimRunner started
+ERROR:SpiceCircuit:line starting with 'Icp1' not found in netlist
+INFO:SimRunner:SimRunner started
+ERROR:SpiceCircuit:line starting with 'Icp1' not found in netlist
+INFO:SimRunner:SimRunner started
+ERROR:SpiceCircuit:line starting with 'A§VCO:mark' not found in netlist
+INFO:SimRunner:SimRunner started
+ERROR:SpiceCircuit:line starting with 'A§VCO:mark' not found in netlist
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+ERROR:SpiceCircuit:line starting with 'A§VCO:Value' not found in netlist
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+WARNING:sim1:: Simulation Failed. Time elapsed: 00:00:00
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+WARNING:sim1:: Simulation Failed. Time elapsed: 00:00:00
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+WARNING:sim1:: Simulation Failed. Time elapsed: 00:00:00
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+WARNING:sim1:: Simulation Failed. Time elapsed: 00:00:00
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+WARNING:sim1:: Simulation Failed. Time elapsed: 00:00:00
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+WARNING:sim1:: Simulation Failed. Time elapsed: 00:00:00
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+WARNING:sim1:: Simulation Failed. Time elapsed: 00:00:00
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+WARNING:sim1:: Simulation Failed. Time elapsed: 00:00:00
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+ERROR:SpiceCircuit:line starting with 'G§G2' not found in netlist
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)
+INFO:SimRunner:SimRunner started
+INFO:sim1:: Starting simulation 1
+INFO:sim1:Simulation Successful. Time elapsed: 00:00:00
+INFO:sim1:Simulation Finished. Calling...dummy_callback(rawfile, logfile)

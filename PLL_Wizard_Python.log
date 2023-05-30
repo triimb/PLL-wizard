@@ -1,0 +1,13 @@
+Questionable use of curly braces in ""vco" "mark={mark} space ={space}" """
+    Error: undefined symbol in: "[mark]"
+Questionable use of curly braces in ""vco" "mark=(mark) space ={space}" """
+    Error: undefined symbol in: "[space]"
+Questionable use of curly braces in ""g1" "{icp}" """
+    Error: undefined symbol in: "[icp]"
+Questionable use of curly braces in ""g2" "{icp}" """
+    Error: undefined symbol in: "[icp]"
+Questionable use of curly braces in ""divider" "cycles={cycles}" """
+    Error: undefined symbol in: "[cycles]"
+Circuit: "ExpressPCB Netlist"
+
+Fatal Error: Unknown SPICE device type """ in ""ltspice xvii""
