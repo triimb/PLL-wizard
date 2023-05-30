@@ -4,19 +4,19 @@ Ce projet consiste en un outil de dimensionnement d'une boucle à verrouillage d
 
 Une première fenêtre permet de définir les contraintes du cahier des charges. Si aucune valeur n'est saisie, des valeurs par défaut seront utilisées. Le bouton de simulation lance la siulation, qui peut prendre un certain temps (maximum 30 secondes). Si la fenêtre windows ne répond pas, attendre.
 
-![Alt Text](figures/dimensionnement_fig.png)
+<img src="figures/dimensionnement_fig.png" alt= “” width="50%" height="50%">
 
 La fenêtre de résultat permet d'observer le bon dimensionnement de la PLL selon 3 points :
 
 1. Observation des signaux d'entrée et de sortie de la PLL pour vérifier que la division/multiplication de fréquence a été effectuée correctement. Les mesures de fréquence en sortie et en entrée sont basées sur les signaux simulés, et non sur des valeurs théoriques.
 
-![Alt Text](figures/vin_vout_fig.png)
+<img src="figures/vin_vout_fig.png" alt= “” width="40%" height="40%">
 
-3. Observation de la réponse de la PLL à un échelon, en particulier la tension en sortie du filtre qui alimente le VCO.
+2. Observation de la réponse de la PLL à un échelon, dans notre cas la tension en sortie du filtre qui attaque le VCO.
 
-![Alt Text](figures/step_response_fig.png)
+<img src="figures/step_response_fig.png" alt= “” width="40%" height="40%">
 
-5. Caractéristiques de la PLL : 
+3. Caractéristiques de la PLL : 
   - Consigne
   - Valeur finale
   - Premier dépassement (%)
@@ -27,19 +27,19 @@ La fenêtre de résultat permet d'observer le bon dimensionnement de la PLL selo
   - Temps d'établissement
   - Intervalle de la Marge de phase (selon l'abbaque Dépassement=f(Marge de Phase))
 
-![Alt Text](figures/charac_fig.png)
+<img src="figures/charac_fig.png" alt= “” width="30%" height="30%">
 
 
 ## Installation
 
 1. Assurez-vous d'avoir installé Python sur votre système.
-2. Clonez ce référentiel sur votre machine : git clone https://github.com/votre_utilisateur/PLL_Wizard.git
-3. Accédez au répertoire du projet : cd PLL_Wizard
+2. Clonez ce référentiel sur votre machine : `git clone https://github.com/votre_utilisateur/PLL_Wizard.git`
+3. Accédez au répertoire du projet : `cd PLL_Wizard`
 4. Installez les dépendances en utilisant `pip` : pip install -r requirements.txt
 
 ## Utilisation
 
-1. Exécutez le script principal : python main.py
+1. Exécutez le script principal : `python main.py`
 2. Suivez les instructions affichées à l'écran pour fournir les paramètres requis pour le dimensionnement de la PLL.
 3. Le Wizard calculera les valeurs des différents composants de la PLL en fonction des paramètres fournis.
 4. Les résultats du dimensionnement seront affichés à la fin de l'exécution.
