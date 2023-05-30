@@ -32,7 +32,7 @@ La fenêtre de résultat permet d'observer le bon dimensionnement de la PLL selo
 
 ## Installation
 
-1. Assurez-vous d'avoir installé Python sur votre système.
+1. Assurez-vous d'avoir installé Python.
 2. Clonez ce référentiel sur votre machine : `git clone https://github.com/votre_utilisateur/PLL_Wizard.git`
 3. Accédez au répertoire du projet : `cd PLL_Wizard`
 4. Installez les dépendances en utilisant `pip` : pip install -r requirements.txt
