@@ -1,7 +1,33 @@
 # Wizard de dimensionnement de PLL
 
-Ce projet est un Wizard de dimensionnement de PLL (Phase Locked Loop) développé en Python. Il permet de dimensionner une PLL avec l'architecture PFD + Charge Pump + Filtre correcteur de phase + VCO + Diviseur de fréquence. Une simulation avec LTSpice permet de vérifier le bon dimensionnement.
+Ce projet consiste en un outil de dimensionnement d'une boucle à verrouillage de phase (PLL, Phase Locked Loop) développé en Python. Il permet de dimensionner une PLL avec une architecture comprenant un détecteur de phase (PFD), une pompe de charge, un filtre de correction de phase, un oscillateur contrôlé en tension (VCO) et un diviseur de fréquence. Pour vérifier le bon dimensionnement, une simulation avec LTSpice est réalisée.
 
+Une première fenêtre permet de définir les contraintes du cahier des charges. Si aucune valeur n'est saisie, des valeurs par défaut seront utilisées. Le bouton de simulation lance la siulation, qui peut prendre un certain temps (maximum 30 secondes). Si la fenêtre windows ne répond pas, attendre.
+
+![Alt Text](figures/dimensionnement_fig.png)
+
+La fenêtre de résultat permet d'observer le bon dimensionnement de la PLL selon 3 points :
+
+1. Observation des signaux d'entrée et de sortie de la PLL pour vérifier que la division/multiplication de fréquence a été effectuée correctement. Les mesures de fréquence en sortie et en entrée sont basées sur les signaux simulés, et non sur des valeurs théoriques.
+
+![Alt Text](figures/vin_vout_fig.png)
+
+3. Observation de la réponse de la PLL à un échelon, en particulier la tension en sortie du filtre qui alimente le VCO.
+
+![Alt Text](figures/step_response_fig.png)
+
+5. Caractéristiques de la PLL : 
+  - Consigne
+  - Valeur finale
+  - Premier dépassement (%)
+  - Moment du premier dépassement
+  - Régime
+  - Gain statique
+  - Constante de temps
+  - Temps d'établissement
+  - Intervalle de la Marge de phase (selon l'abbaque Dépassement=f(Marge de Phase))
+
+![Alt Text](figures/charac_fig.png)
 
 
 ## Installation
