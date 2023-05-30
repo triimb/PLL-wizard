@@ -1,5 +1,5 @@
 customtkinter
 pyglet
-PyLTSpice
+PyLTSpice==4.0.2
 matplotlib
 numpy
