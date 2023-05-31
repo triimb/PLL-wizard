@@ -35,7 +35,7 @@ La fenêtre de résultat permet d'observer le bon dimensionnement de la PLL selo
 1. Assurez-vous d'avoir Python et Git.
 2. Clonez ce référentiel sur votre machine : `git clone https://github.com/TriTriCPE/PLL_Wizard`
 3. Accédez au répertoire du projet : `cd PLL_Wizard`
-4. Installez les dépendances en utilisant `pip` : pip install -r requirements.txt
+4. Installez les dépendances en utilisant pip : `pip install -r requirements.txt`
 
 ## Utilisation
 
