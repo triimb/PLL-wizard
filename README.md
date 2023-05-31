@@ -2,7 +2,7 @@
 
 Ce projet consiste en un outil de dimensionnement d'une boucle à verrouillage de phase (PLL, Phase Locked Loop) développé en Python. Il permet de dimensionner une PLL avec une architecture comprenant un détecteur de phase (PFD), une pompe de charge, un filtre de correction de phase, un oscillateur contrôlé en tension (VCO) et un diviseur de fréquence. Pour vérifier le bon dimensionnement, une simulation avec LTSpice est réalisée.
 
-Une première fenêtre permet de définir les contraintes du cahier des charges. Si aucune valeur n'est saisie, des valeurs par défaut seront utilisées. Le bouton de simulation lance la siulation, qui peut prendre un certain temps (maximum 30 secondes). Si la fenêtre windows ne répond pas, attendre.
+Une première fenêtre permet de définir les contraintes du cahier des charges. Si aucune valeur n'est saisie, des valeurs par défaut seront utilisées. Le bouton de simulation lance la simulation, qui peut prendre un certain temps (maximum 30 secondes). Si la fenêtre windows ne répond pas, attendre.
 
 <img src="figures/dimensionnement_fig.png" alt= “” width="50%" height="50%">
 
@@ -32,8 +32,8 @@ La fenêtre de résultat permet d'observer le bon dimensionnement de la PLL selo
 
 ## Installation
 
-1. Assurez-vous d'avoir installé Python.
-2. Clonez ce référentiel sur votre machine : `git clone https://github.com/votre_utilisateur/PLL_Wizard.git`
+1. Assurez-vous d'avoir Python et Git.
+2. Clonez ce référentiel sur votre machine : `git clone https://github.com/TriTriCPE/PLL_Wizard`
 3. Accédez au répertoire du projet : `cd PLL_Wizard`
 4. Installez les dépendances en utilisant `pip` : pip install -r requirements.txt
 
@@ -41,8 +41,8 @@ La fenêtre de résultat permet d'observer le bon dimensionnement de la PLL selo
 
 1. Exécutez le script principal : `python main.py`
 2. Suivez les instructions affichées à l'écran pour fournir les paramètres requis pour le dimensionnement de la PLL.
-3. Le Wizard calculera les valeurs des différents composants de la PLL en fonction des paramètres fournis.
-4. Les résultats du dimensionnement seront affichés à la fin de l'exécution.
+3. Le Wizard calculera les valeurs des différents composants de la PLL en fonction des paramètres rentrés.
+4. Les résultats de la simulation seront affichés à la fin de l'exécution.
 
 ## Structure du projet
 
