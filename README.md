@@ -1,60 +1,59 @@
 # Wizard de dimensionnement de PLL
 
-Ce projet consiste en un outil de dimensionnement d'une boucle à verrouillage de phase (PLL, Phase Locked Loop) développé en Python. Il permet de dimensionner une PLL avec une architecture comprenant un détecteur de phase (PFD), une pompe de charge, un filtre de correction de phase, un oscillateur contrôlé en tension (VCO) et un diviseur de fréquence. Pour vérifier le bon dimensionnement, une simulation avec LTSpice est réalisée.
+This project consists of a Phase-Locked Loop (PLL) sizing tool developed in Python. It allows for the sizing of a PLL with an architecture that includes a Phase-Frequency Detector (PFD), charge pump, phase correction filter, Voltage-Controlled Oscillator (VCO), and frequency divider. To validate proper sizing, a simulation using LTSpice is performed.
 
-Une première fenêtre permet de définir les contraintes du cahier des charges. Si aucune valeur n'est saisie, des valeurs par défaut seront utilisées. Le bouton de simulation lance la simulation, qui peut prendre un certain temps (maximum 30 secondes). Si la fenêtre windows ne répond pas, attendre.
+The initial window allows the definition of specifications. If no values are entered, default values will be used. The simulation is initiated by clicking the simulation button, which may take some time (up to 30 seconds). If the window becomes unresponsive, please wait.
 
 <img src="figures/dimensionnement_fig.png" alt= “” width="50%" height="50%">
 
-La fenêtre de résultat permet d'observer le bon dimensionnement de la PLL selon 3 points :
+The result window allows observation of proper PLL sizing in three aspects:
 
-1. Observation des signaux d'entrée et de sortie de la PLL pour vérifier que la division/multiplication de fréquence a été effectuée correctement. Les mesures de fréquence en sortie et en entrée sont basées sur les signaux simulés, et non sur des valeurs théoriques.
+1. Observation of input and output signals of the PLL to verify correct frequency division/multiplication. Frequency measurements are based on simulated signals, not theoretical values.
 
 <img src="figures/vin_vout_fig.png" alt= “” width="40%" height="40%">
 
-2. Observation de la réponse de la PLL à un échelon, dans notre cas la tension en sortie du filtre qui attaque le VCO.
+2. Observation of the PLL's response to a step, in this case, the voltage at the output of the filter driving the VCO.
 
 <img src="figures/step_response_fig.png" alt= “” width="40%" height="40%">
 
-3. Caractéristiques de la PLL : 
-  - Consigne
-  - Valeur finale
-  - Premier dépassement (%)
-  - Moment du premier dépassement
-  - Régime
-  - Gain statique
-  - Constante de temps
-  - Temps d'établissement
-  - Intervalle de la Marge de phase (selon l'abbaque Dépassement=f(Marge de Phase))
+3. PLL Characteristics:
+- Setpoint
+- Final value
+- First overshoot (%)
+- Time of first overshoot
+- Regime
+- Static gain
+- Time constant
+- Settling time
+- Phase Margin Interval (according to the Overshoot vs. Phase Margin graph)
 
 <img src="figures/charac_fig.png" alt= “” width="30%" height="30%">
 
 
 ## Installation
 
-1. Assurez-vous d'avoir Python et Git.
-2. Clonez ce référentiel sur votre machine : `git clone https://github.com/TriTriCPE/PLL_Wizard`
-3. Accédez au répertoire du projet : `cd PLL_Wizard`
-4. Installez les dépendances en utilisant pip : `pip install -r requirements.txt`
+1. Ensure you have Python and Git installed.
+2. Clone this repository to your machine: git clone https://github.com/TriTriCPE/PLL_Wizard
+3. Navigate to the project directory: cd PLL_Wizard
+4. Install dependencies using pip: pip install -r requirements.txt
 
-## Utilisation
+## Usage
 
-1. Exécutez le script principal : `python main.py`
-2. Suivez les instructions affichées à l'écran pour fournir les paramètres requis pour le dimensionnement de la PLL.
-3. Le Wizard calculera les valeurs des différents composants de la PLL en fonction des paramètres rentrés.
-4. Les résultats de la simulation seront affichés à la fin de l'exécution.
+1. Run the main script: python main.py
+2.Follow the on-screen instructions to provide the required parameters for PLL sizing.
+3.The wizard will calculate the values of various PLL components based on the entered parameters.
+4. Simulation results will be displayed at the end of execution.
 
-## Structure du projet
+## Project Structure
 
-Le projet est organisé de la manière suivante :
+The project is organized as follows:
 
-- `main.py` : Le script principal qui interagit avec l'utilisateur et effectue le dimensionnement de la PLL.
-- `LTSpice_simulation.py` : Le module qui lance les simulations LTSpice à l'aide de la librairie PYLTSpice
-- `PLL_design.py` : Le module contenant les fonctions et les calculs nécessaires pour le dimensionnement de la PLL.
-- `PLL_Wizard_Python.asc` : Le fichier "schematic" permettant la simulation du circuit sur LTSpice.
-- `Sim/` : Dossier contenant les résultats de simulation .NETLIST et .RAW
-- `requirements.txt` : Le fichier contenant la liste des dépendances requises pour exécuter le projet.
-- `README.md` : Ce fichier.
+- `main.py` : The main script that interacts with the user and performs PLL sizing.
+- `LTSpice_simulation.py` : The module that initiates LTSpice simulations using the PYLTSpice library.
+- `PLL_design.py` : The module containing functions and calculations necessary for PLL sizing.
+- `PLL_Wizard_Python.asc` : The "schematic" file enabling circuit simulation on LTSpice.
+- `Sim/` : Folder containing simulation results in .NETLIST and .RAW formats.
+- `requirements.txt` : File containing the list of dependencies required to run the project.
 
 ## Auteurs
 
@@ -63,4 +62,4 @@ Le projet est organisé de la manière suivante :
 
 ## Licence
 
-Ce projet est sous licence [MIT](LICENSE). Vous êtes libre de l'utiliser à des fins personnelles ou commerciales. Consultez le fichier `LICENSE` pour plus d'informations.
+This project is under the MIT License. You are free to use it for personal or commercial purposes. Refer to the LICENSE file for more information.
